@@ -1,6 +1,0 @@
-# Models Pre-Any/Goalkeeper/Empty Game Cleaning
-KNN Model (K11 - 783)
-Random Forest Model (797)
-
-Random Forest Model Multi-Class(679)
-KNN Multi-Class (K13 - 664)
